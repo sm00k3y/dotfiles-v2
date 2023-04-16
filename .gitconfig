@@ -1,0 +1,12 @@
+[alias]
+  a = add
+  b = branch
+  c = commit
+  ch = checkout
+  cl = clone
+  d = diff
+  f = fetch
+  l = log
+  p = push
+  pl = pull
+  st = status

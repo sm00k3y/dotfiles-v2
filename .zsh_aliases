@@ -1,0 +1,18 @@
+alias ls="ls --color"
+alias ll="ls -al"
+alias la="ls -a"
+alias sys="systemctl"
+alias term="gnome-terminal"
+alias vim="nvim"
+alias sup="sudo supervisorctl"
+alias src="source .venv/bin/activate"
+alias config="nvim ~/.config/nvim"
+alias g="git"
+
+alias 4chain="cd ~/Desktop/work/4chain"
+alias oak="cd ~/Desktop/work/oak"
+
+alias sys="systemctl"
+
+# for storing dotfiles
+alias dotfiles="/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
